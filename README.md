@@ -1,12 +1,13 @@
 # vue-queue-toast
 当同时toast多个消息的时候，以队列的形式，每次只显示一个toast，类似原生android app
+
 when many toast are called at the same time,they will be piped in a queue,and be showed only one at a time like the native android Toast
 
 for defferent functions, see my [another-toast](https://github.com/bajian/vue-toast)
 
 ####demo
 
-[live-demo](https://rawgit.com/bajian/vue-queue-toast/master/dist/demo1.html)
+[live-demo](https://rawgit.com/bajian/vue-queue-toast/master/dist/demo2.html)
 
 > A Vue.js project
 
